@@ -10,26 +10,31 @@ Key Performance Indicator:
 🔸 Average Years at Company: 7
 🔸 Average Age: 37
 
-Key steps and achievements in the project included:
+**Key steps and achievements included:**
 
-1)Identifying Key Factors to Reduce Attrition: Through comprehensive analysis, I identified major drivers of attrition, such as job role, education, salary, and years at the company, which allowed the company to target specific areas for improvement.
+1)Identifying Key Factors to Reduce Attrition: By analyzing employee data, I identified major drivers of attrition, such as job role, education, salary, and years at the company. These insights enabled the company to target areas for improvement to reduce turnover.
 
-2)Improving the Hiring Process: By evaluating attrition patterns, I helped refine the recruitment process to better match candidates with the company's values, culture, and growth opportunities, which in turn reduced early turnover.
+2)Improving the Hiring Process: Through attrition pattern analysis, I refined the recruitment process to ensure better alignment between candidates and company culture, resulting in more informed hiring decisions and reduced early turnover.
 
-3)Enhancing Employee Experience: I proposed and implemented strategies aimed at improving employee satisfaction by offering career development opportunities, optimizing work-life balance, and fostering a more inclusive and supportive workplace culture.
+3)Enhancing Employee Experience: I proposed initiatives to improve employee satisfaction, including career development opportunities, optimizing work-life balance, and fostering a supportive, inclusive culture.
 
-4)Boosting Workforce Productivity: Targeted interventions, such as training programs and performance management frameworks, were recommended to improve employee performance and engagement, which contributed to a more productive workforce.
+4)Boosting Workforce Productivity: Recommendations were made for training programs and performance management systems to enhance employee engagement and overall productivity.
 
-5)Building Employee Trust: Data-driven insights were used to recommend transparency and communication strategies, which helped increase trust between employees and leadership.
+5)Building Employee Trust: Data-driven insights led to strategies for increasing transparency and communication, fostering stronger trust between employees and management.
 
-Visualizations were created to support the findings, including:
+**Key Findings from Analysis:**
 
-Attrition by Job Role: Breakdown of attrition by job roles
-Attrition by Education: Analysis of attrition rates by educational background
-Attrition by Age Group: Insights into attrition distribution across different age groups
-Attrition by Years at Company: Trends in attrition based on tenure
-Attrition by Salary Slab: Breakdown of attrition by salary range
-Attrition by Gender: Gender-based attrition analysis
-Job Role Breakdown by Attrition Years: Detailed attrition matrix showing trends across job roles over time
+The analysis revealed that employees aged 26-35, with salaries up to 5K, education in Life Sciences, Medical, and Marketing, and working in roles such as Laboratory Technician, Sales Executive, Research Scientist, and Sales Representative, were more likely to leave the company.
+These employees had been with the company for less than two years, were mostly male, and represented a significant portion of the attrition.
 
-These visualizations and insights helped create a targeted strategy to reduce turnover and foster a more engaged and productive workforce, ultimately improving retention and employee satisfaction.
+
+*Visualizations were created to support these findings:*
+
+Attrition by Job Role: Breakdown of attrition across various job roles
+Attrition by Education: Insights into attrition based on educational background
+Attrition by Age Group: Analysis of attrition across different age groups
+Attrition by Years at Company: Trends in attrition based on employee tenure
+Attrition by Salary Slab: Breakdown of attrition across salary ranges
+Attrition by Gender: Gender-based attrition insights
+Job Role Breakdown by Attrition Years: Detailed matrix showing attrition trends for job roles over time
+These insights and visualizations provided the company with targeted strategies to reduce attrition, improve employee engagement, and create a more productive and loyal workforce.
