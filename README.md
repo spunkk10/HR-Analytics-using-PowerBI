@@ -12,15 +12,15 @@ Key Performance Indicator:
 
 Key steps and achievements in the project included:
 
-Identifying Key Factors to Reduce Attrition: Through comprehensive analysis, I identified major drivers of attrition, such as job role, education, salary, and years at the company, which allowed the company to target specific areas for improvement.
+1)Identifying Key Factors to Reduce Attrition: Through comprehensive analysis, I identified major drivers of attrition, such as job role, education, salary, and years at the company, which allowed the company to target specific areas for improvement.
 
-Improving the Hiring Process: By evaluating attrition patterns, I helped refine the recruitment process to better match candidates with the company's values, culture, and growth opportunities, which in turn reduced early turnover.
+2)Improving the Hiring Process: By evaluating attrition patterns, I helped refine the recruitment process to better match candidates with the company's values, culture, and growth opportunities, which in turn reduced early turnover.
 
-Enhancing Employee Experience: I proposed and implemented strategies aimed at improving employee satisfaction by offering career development opportunities, optimizing work-life balance, and fostering a more inclusive and supportive workplace culture.
+3)Enhancing Employee Experience: I proposed and implemented strategies aimed at improving employee satisfaction by offering career development opportunities, optimizing work-life balance, and fostering a more inclusive and supportive workplace culture.
 
-Boosting Workforce Productivity: Targeted interventions, such as training programs and performance management frameworks, were recommended to improve employee performance and engagement, which contributed to a more productive workforce.
+4)Boosting Workforce Productivity: Targeted interventions, such as training programs and performance management frameworks, were recommended to improve employee performance and engagement, which contributed to a more productive workforce.
 
-Building Employee Trust: Data-driven insights were used to recommend transparency and communication strategies, which helped increase trust between employees and leadership.
+5)Building Employee Trust: Data-driven insights were used to recommend transparency and communication strategies, which helped increase trust between employees and leadership.
 
 Visualizations were created to support the findings, including:
 
